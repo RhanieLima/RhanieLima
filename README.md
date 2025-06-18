@@ -10,7 +10,8 @@
 
    [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/RhanielLIma)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_RhanielLima__ferreira?igsh=MTVweHgyM2p1Ym1wcA%3D%3D&utm_source=qr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:custodiorhaniel8@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:custodiorhaniel8@gmail.com?subject=Contato%20via%20GitHub)
+
 
 
 - 🔭 I’m currently Programming Student.
