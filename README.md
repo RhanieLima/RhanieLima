@@ -1,6 +1,6 @@
 ## <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08f598&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -18,8 +18,9 @@
 - ⚡ Fun fact: I love Sports the main is Basketball 🏀 and challenges.
 - 😄 Pronouns: He/Him.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhanieLima&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhanieLima&layout=compact&theme=dracula)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhanieLima&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhanieLima&layout=compact&theme=chartreuse-dark)
 
 
 <h3 align="left">My Stacks </h3>
@@ -30,6 +31,14 @@
   <img align="center" alt="Rhani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rhani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RhanieLIma/RhanieLIma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RhanieLIma/RhanieLIma/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RhanieLIma/RhanieLIma/output/github-contribution-grid-snake.svg">
+</picture>
 
   
 
