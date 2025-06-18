@@ -9,7 +9,7 @@
    ##
 
    [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhaniellima)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rhaniellima__Rhaniel?igsh=MTVweHgyM2p1Ym1wcA%3D%3D&utm_source=qr)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rhaniellima_Rhaniel?igsh=MTVweHgyM2p1Ym1wcA%3D%3D&utm_source=qr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:custodiorhaniel8@gmail.com?subject=Contato%20via%20GitHub)
 
 
