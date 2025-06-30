@@ -14,9 +14,9 @@
 
 
 
-- 🔭 I’m currently Programming Student.
-- 🌱 I’m currently learning JavaScript and TypeScript.
-- ⚡ Fun fact: I love Sports the main is Basketball 🏀 and challenges.
+- 🔭 I’m currently a Programming Student.
+- 🌱 I’m currently a learning JavaScript and TypeScript.
+- ⚡ Fun fact: I love Sports 🏀🏐⚽ and Games⚔️
 - 😄 Pronouns: He/Him.
 
  
