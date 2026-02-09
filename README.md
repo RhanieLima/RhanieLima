@@ -20,8 +20,13 @@
 - 😄 Pronouns: He/Him.
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhanieLima&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhanieLima&layout=compact&theme=chartreuse-dark)
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RhanieLima&theme=dracula" 
+    alt="Rhaniel's GitHub streak" 
+    height="160"
+  />
+</p>
 
 
 <h3 align="left">My Stacks </h3>
